@@ -41,5 +41,4 @@ yarn-error.log*
 next-env.d.ts
 
 
-# just do it for now
-src\app\api\posts\[id]
+src/app/api/posts/\[id]/route.ts
